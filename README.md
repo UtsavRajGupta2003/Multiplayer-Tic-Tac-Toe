@@ -59,11 +59,13 @@ Before starting, ensure you have the following installed:
 ```
 multiplayer-tic-tac-toe/
 ├── public/
-│   ├── index.html       # Game interface
-│   ├── style.css        # Game styling
-│   ├── script.js        # Frontend logic
-├── server.js            # Main server file
-├── package.json         # Project metadata and dependencies
+│   ├── image        # Game interface
+│   ├── css          # Game styling
+│   ├── js           # Frontend logic
+├── views                # Ejs Pages
+|── app.js               # Main server file
+|── package.json         # Project metadata and dependencies
+├── package-lock.json    # Project metadata 
 └── README.md            # Project documentation
 ```
 
